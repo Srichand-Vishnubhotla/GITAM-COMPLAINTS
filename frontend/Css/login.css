@@ -1,0 +1,100 @@
+.container
+{   
+    height: 430px;
+    width: 400px;
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    display:flex;
+    margin-left: 550px;
+    margin-top: 100px;
+
+}
+
+.image
+{   
+    display: flex; 
+    height: 80px;
+    margin-left: 105px;
+    margin-top: 30px;
+}
+
+.info
+{   
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 70px;
+    width: 300px;
+    border-style: solid;
+    border-color: #666D73;
+    border-width: 1px;
+}
+
+.id
+{
+    height: 70px;
+}
+
+.heading  
+{   
+    background-color: #666D73;
+    color: white;
+    width: 300px;
+    padding-bottom: 10px;
+    height:30px;
+    font-family: sans-serif;
+    padding-left: 130px;    
+    font-size: 13px;    
+}
+
+.input
+{   
+    margin-left: -115px;
+    margin-top: 5px;
+    border: none;
+    outline: none;
+    width: 200px;
+}  
+
+.login
+{   
+    background-color: #b1040e;
+    color: white;
+    margin-top: 20px;   
+    margin-left: 50px;
+    height: 30px;
+    width: 305px;
+    padding:6px 12px 6px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.buttons
+{   
+    
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 30px;
+    
+}       
+.reset
+{   
+    background-color: #b1040e; 
+    border: none;
+    color: white;
+    cursor: pointer;
+    width:130px
+}
+.contact
+{   
+    background-color: #b1040e; 
+    border: none;
+    color: white; 
+    margin-left: 76px;
+    cursor: pointer;
+}

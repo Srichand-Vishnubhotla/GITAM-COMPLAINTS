@@ -1,0 +1,190 @@
+/* Upper Header Section */
+.upper
+{
+    display: flex;
+    margin-top: -10px;
+    margin-left: -10px;
+    height: 60px;
+    width: 101.2%;
+    background-color: #007367;
+}
+
+.cats {
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+.cat {
+    height: 30px;
+    width: 130px;
+}
+
+.menu {
+    width: 20px;
+    margin-left: 40px;
+    margin-top: 22px;
+}
+
+.menuicon {
+    width: 15px;
+    height: 2px;
+    background-color: #eae5d4;
+    margin-top: 3px;
+}
+
+.stext {
+    margin-left: 10px;
+}
+
+.studentext {
+    color: #eae5d4;
+    font-size: 18px;
+    font-family: afacad flux;
+}
+
+.dots {
+    margin-left: 1100px;
+    margin-top: 19px;
+}
+
+.dots-menu {
+
+    height: 22px;
+}
+
+.profile {
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+.profile-picture {
+    height: 35px;
+    width: 35px;
+    border-radius: 25px;
+}
+
+/* Main Layout */
+.main {
+
+    display: flex;
+    flex-direction: row;
+}
+
+/* Left Sidebar */
+.left-side {
+
+     width: 200px;
+    height: 170px;
+    box-shadow:1px 0px 1px rgb(242, 239, 239) ;
+    flex-direction: row;
+}
+
+.left-section {
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    width: 200px;
+    height: 90px;
+}
+
+.left-pic {
+
+    height: 90px;
+    width: 90px;
+    margin-left: 35px;
+    border-radius: 100px;
+}
+
+.H {
+
+   margin-left: 25px;
+    margin-top: -40px;
+}
+
+.Hostel {
+
+    font-size: 50px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.type
+{
+    margin-left: 120px;
+}
+.stdname {
+
+    text-align: center;
+    font-size: 14px;
+    font-family:afacad flux;
+}
+
+/* Complaint Content Section */
+.content {
+    flex-grow: 1;
+    margin-left: 30px;
+}
+
+.title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #007367;
+    font-family: afacad flux;
+}
+
+/* Description Section */
+.description-section {
+    margin-bottom: 20px;
+    font-family: afacad flux;
+}
+
+textarea {
+    margin-top: 20px;
+    font-size: 16px;
+    width: 90%;
+    height: 100px;
+    resize: none;
+    padding: 10px;
+    border: 1.5px solid #020202;
+    border-radius: 5px;
+    font-family: afacad flux;
+}
+
+/* Upload Section */
+.upload-section {
+    font-family: afacad flux;
+    margin-bottom: 20px;
+}
+
+input[type="file"] {
+    display: block;
+    margin-top: 10px;
+}
+
+/* Submit Button */
+.button {
+    margin-top: -50px;
+    margin-left: 1090px;
+}
+
+.submit-button {
+    font-family: afacad flux;
+    font-size: 14px;
+    padding: 10px 20px;
+    background-color: #007367;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+    background-color: #14665e;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-family: afacad flux;
+}

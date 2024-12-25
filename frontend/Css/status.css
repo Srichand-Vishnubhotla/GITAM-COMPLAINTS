@@ -1,0 +1,158 @@
+.upper
+{
+    display: flex;
+    margin-top: -10px;
+    margin-left: -10px;
+    height: 60px;
+    width: 101.2%;
+    background-color: #007367;
+}
+.cats
+{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.cat
+{
+    height: 30px;
+    width: 130px;
+}
+
+.menu
+{
+    width: 20px;
+    margin-left: 40px;
+    margin-top: 22px;
+}
+.menuicon
+{   
+    width: 15px;
+    height: 2px;
+    background-color: #eae5d4;
+    margin-top: 3px;
+}
+.stext
+{
+    margin-left: 10px;
+}
+.studentext
+{
+    color: #eae5d4;
+    font-size: 18px;
+    font-family: afacad flux;
+}
+
+.dots
+{
+    margin-left: 1100px;
+    margin-top: 19px;
+}
+.dots-menu
+{
+    height: 22px;
+}
+
+.profile
+{
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+.profile-picture
+{
+    height: 35px;
+    width: 35px;
+    border-radius: 25px;
+}
+
+.main
+{   
+    display: flex;
+    flex-direction: row;
+}
+
+
+.left-side
+{   
+    width: 200px;
+    height: 170px;
+    box-shadow:1px 0px 1px rgb(242, 239, 239) ;
+    flex-direction: row;
+}
+.left-section
+{   
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    width: 200px;
+    height: 90px;
+    
+   
+}
+
+.left-pic
+{
+    height: 90px;
+    width: 90px;
+    margin-left: 35px;
+    border-radius: 100px;
+}
+
+.H
+{
+    margin-left: 25px;
+    margin-top: -40px;
+}
+
+.Hostel
+{
+    font-size: 50px;
+    font-weight: 500;
+    font-family: afacad flux;
+}
+
+.name
+{
+    margin-left: 10px;
+    font-family: afacad flux;
+}
+
+.stdname
+{
+    font-size: 14px;
+    font-family:afacad flux;
+}
+
+.reg
+{
+    margin-left: 10px;
+}
+
+.type
+{
+    margin-left: 130px;
+    font-weight: 500;
+}
+
+/* Complaint Status Section */
+.ctext p {
+    font-family: afacad flux;
+    font-size: 20px;
+    margin-top: 90px;
+    margin-left: 30px;
+}
+
+.status-section {
+    font-family: afacad flux;
+    margin-left: 20px;
+    margin-top: 40px;
+    width: 800px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.status-info p {
+    font-family: afacad flux;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
